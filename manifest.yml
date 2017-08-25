@@ -6,3 +6,4 @@ applications:
   name: "TelegramBotShawn"
   host: TelegramBotShawnR
   disk_quota: 128M
+  timeout: 160

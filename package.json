@@ -14,7 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "node-telegram-bot-api": "^0.27.1"
+    "express": "^4.13.3",
+    "cfenv": "1.0.x",
+    "node-telegram-bot-api": "^0.27.1",
+    "watson-developer-cloud":"2.38.0"
   },
   "engines": {
     "node": "6.10.0"

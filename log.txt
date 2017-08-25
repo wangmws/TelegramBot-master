@@ -1,0 +1,10 @@
+
+> TelegramBotShawn@1.0.0 start D:\CloudStation\IBM WF\Demo Development\TelegramBot-master
+> node index.js
+
+420890705:AAFwqCBgZqsWtKHFCwvIjTADbPLtTVoEglo
+https://watson-personal-assistant-toolkit.mybluemix.net
+0094c7bf-c782-4e9a-a989-a7aaa6bebaa5
+uncRuyG4fMnA
+server starting on http://localhost:6005
+Terminate batch job (Y/N)? 

@@ -21,7 +21,16 @@ function converse(text, callback) {
       }
     }
   }, function(err, response, body) {
-    if (err || (body.speech === undefined)) {
+    /*
+    console.log("err:");
+    console.log(err);
+    console.log("response:");
+    console.log(response);
+    console.log("body:");
+    console.log(body);
+    */
+    //if (err || (body.speech === undefined)) {
+    if (err || (body === undefined)) {
       callback('no response');
     } else {
       callback(null, body);
